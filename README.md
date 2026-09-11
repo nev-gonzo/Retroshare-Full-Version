@@ -240,4 +240,4 @@ This repository serves as the official landing page for RetroShare. The software
 **Get the most recent version of RetroShare today!**
 
 ---
-**Last updated:** 2026-09-11 13:55:09 UTC
+**Last updated:** 2026-09-11 17:23:10 UTC
